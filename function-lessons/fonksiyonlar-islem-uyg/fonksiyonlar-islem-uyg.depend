@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1725628769 source:c:\users\mertt\desktop\code\attempts4\function-lessons\fonksiyonlar-islem-uyg\main.c
+	<stdio.h>
+	<stdlib.h>
+	"myMath.h"
+
+1725626602 c:\users\mertt\desktop\code\attempts4\function-lessons\fonksiyonlar-islem-uyg\mymath.h
+
